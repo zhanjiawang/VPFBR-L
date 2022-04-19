@@ -25,3 +25,11 @@ make
 #voxel plane features based localization
 ./VPFBL ../data/1410.pcd ../data/3540.pcd
 ```
+
+#### 3. Paper
+```
+#voxel plane features based registration
+./VPFBR ../data/1410.pcd ../data/3540.pcd
+#voxel plane features based localization
+./VPFBL ../data/1410.pcd ../data/3540.pcd
+```
